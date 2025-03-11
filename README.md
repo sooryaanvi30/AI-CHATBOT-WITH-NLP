@@ -37,6 +37,8 @@ This ensures interactive user engagement through the console.
 This chatbot interacts with users through text-based input and output in a console environment. The user provides input by typing messages, which are processed using predefined pattern-matching rules. The chatbot recognizes basic greetings such as "hi," "hello," and "hey," as well as simple queries like "what is your name?" or "how are you?" using regular expressions. If the input matches a pattern, the chatbot selects an appropriate response from a predefined list. If the user enters an exit command like "bye," "exit," or "quit," the chatbot acknowledges the farewell and terminates the conversation. The chatbot's responses are displayed in real-time, making the interaction feel natural and conversational. However, if the input does not match any predefined pattern, the chatbot may not provide a meaningful response. The reflections dictionary allows for dynamic word replacements, ensuring that responses sound more personalized. The chatbot runs in a continuous loop until an exit command is detected, making it a simple yet effective example of a rule-based chatbot using the nltk library.
 
 OUTPUT:
+![image](https://github.com/user-attachments/assets/8e6e119f-4459-413d-965a-1bfe802f9746)
+
 
 
 
